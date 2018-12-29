@@ -16,7 +16,7 @@ Certain words have very specific applicability when used in guidelines:
 
  + **Always** -- without exception, other than as noted by the guideline.
  + **Prefer** -- deviate from the guideline only with good reason.
- + **Consider** -- Your call; this is essential a neutral recommendation.
+ + **Consider** -- Your call; this is essentially a neutral recommendation.
  + **Avoid** -- deviate from the guideline only with good reason.
  + **Never** -- without exception, other than as noted by the guideline.
 
